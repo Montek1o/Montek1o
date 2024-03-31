@@ -34,25 +34,13 @@
 <br/>  
 
 ## Мои проекты
-<div style="display: flex; column-gap: 20px">
+<div align="center">
 
-  |Приложения|||
-  |-|-|-|
-  |Калькулятор калорий|[Демо](https://montek1o-wb-l2-calories-calculator.netlify.app/)|[Код](https://github.com/Montek1o/wb-task-l2/tree/main/calorie-calculator)|
-  |CSS training|[Демо](https://montek1o.github.io/rss-selectors/)|[Код](https://github.com/Montek1o/rss-selectors/tree/RSS-CSS-Selectors/)|
-
-  |Игры|||
-  |-|-|-|
-  |Крестики нолики|[Демо](https://montek1o-wb-l2-tic-tac-toe.netlify.app/)|[Код](https://github.com/Montek1o/wb-task-l2/tree/main/tic-tac-toe)|
-  |Тетрис|[Демо](https://montek1o-wb-l2-tetris.netlify.app/)|[Код](https://github.com/Montek1o/wb-task-l2/tree/main/tetris)|
-
-  |Лендинги|||
-  |-|-|-|
-  |Страница корзины|[Демо](https://montekio-wb.netlify.app/)|[Код](https://github.com/Montek1o/wb-task-l0)|
-  |Plants|[Демо](https://montek1o.github.io/plants/)|[Код](https://github.com/Montek1o/plants)|
-</div>
-
-
+  |Приложения||||Игры||||Лендинги|||
+  |-|-|-|-|-|-|-|-|-|-|-|
+  |Калькулятор калорий|[Демо](https://montek1o-wb-l2-calories-calculator.netlify.app/)|[Код](https://github.com/Montek1o/wb-task-l2/tree/main/calorie-calculator)||Крестики нолики|[Демо](https://montek1o-wb-l2-tic-tac-toe.netlify.app/)|[Код](https://github.com/Montek1o/wb-task-l2/tree/main/tic-tac-toe)||Страница корзины|[Демо](https://montekio-wb.netlify.app/)|[Код](https://github.com/Montek1o/wb-task-l0)|
+  |CSS training|[Демо](https://montek1o.github.io/rss-selectors/)|[Код](https://github.com/Montek1o/rss-selectors/tree/RSS-CSS-Selectors/)||Тетрис|[Демо](https://montek1o-wb-l2-tetris.netlify.app/)|[Код](https://github.com/Montek1o/wb-task-l2/tree/main/tetris)||Plants|[Демо](https://montek1o.github.io/plants/)|[Код](https://github.com/Montek1o/plants)|
+</div>  
 <br/>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Montek1o&&style=flat-square" align="center" />
