@@ -29,7 +29,7 @@
 <div align="center">
   <a href="https://t.me/nezhd_an" target="_blank"><img style="margin: 10px" src="./assets/contacts/tg.png" alt="telegram" height="50" /></a>  
   <a href="mailto:nezhd.an@yandex.ru" target="_blank"><img style="margin: 10px" src="./assets/contacts/mail.png" alt="mail" height="50" /></a>
-  <a href="tel:+79163884667"><img style="margin: 10px" src="./assets/contacts/phone.png" alt="phone" height="50" /></a>
+  <a href="tel:+79163884667" target="_blank"><img style="margin: 10px" src="./assets/contacts/phone.png" alt="phone" height="50" /></a>
 </div>  
 <br/>  
 
